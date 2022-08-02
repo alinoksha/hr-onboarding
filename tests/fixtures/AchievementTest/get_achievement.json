@@ -1,0 +1,11 @@
+{
+    "id" : 1,
+    "script_id" : 1,
+    "title" : "title1",
+    "incomplete_cover_id" : 1,
+    "complete_cover_id" : 2,
+    "incomplete_message" : "msg",
+    "complete_message" : "msg",
+    "created_at" : null,
+    "updated_at" : null
+}

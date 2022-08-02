@@ -1,0 +1,51 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 4,
+            "first_name": "Alexey",
+            "last_name": "Petrov",
+            "email": "alex@example.com",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": "2018-11-11T11:11:11.000000Z",
+            "role_id": 3,
+            "date_of_birth": "2001-06-30",
+            "phone": "89182002900",
+            "position": "hr",
+            "starts_on": "2022-05-09 00:00:00",
+            "hr_id": 2,
+            "manager_id": 2,
+            "lead_id": 1,
+            "avatar_id": null,
+            "company_id": 1
+        }
+    ],
+    "first_page_url": "http:\/\/localhost\/api\/users?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost\/api\/users?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost\/api\/users?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost\/api\/users",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 1,
+    "total": 1
+}

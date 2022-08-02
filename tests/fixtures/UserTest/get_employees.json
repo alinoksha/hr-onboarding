@@ -1,0 +1,51 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 3,
+            "first_name": "Andrew",
+            "last_name": "Montgomery",
+            "email": "retoh@example.com",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "role_id": 3,
+            "date_of_birth": "2001-06-30",
+            "phone": "89162002943",
+            "position": "intern",
+            "starts_on": "2022-04-26 00:00:00",
+            "hr_id": 2,
+            "manager_id": 2,
+            "lead_id": 1,
+            "avatar_id": 2,
+            "company_id": 1
+        }
+    ],
+    "first_page_url": "http:\/\/localhost\/api\/users?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/localhost\/api\/users?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost\/api\/users?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost\/api\/users",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 1,
+    "total": 1
+}

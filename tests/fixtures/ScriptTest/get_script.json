@@ -1,0 +1,9 @@
+{
+    "id" : 1,
+    "title" : "title",
+    "description" : "description",
+    "cover_id" : 1,
+    "company_id": 1,
+    "created_at" : null,
+    "updated_at" : null
+}

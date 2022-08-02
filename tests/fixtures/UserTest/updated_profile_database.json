@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "first_name": "Billy",
+    "last_name": "Coleman",
+    "email": "admin@example.com",
+    "date_of_birth": "1986-05-20",
+    "phone": "88888888888",
+    "position": "admin",
+    "starts_on": "2022-04-16 00:00:00",
+    "hr_id": null,
+    "manager_id": null,
+    "lead_id": null,
+    "role_id": 1,
+    "avatar_id": null,
+    "company_id": 1,
+    "email_verified_at": null,
+    "remember_token": null,
+    "password": "$2a$12$b.zlOt1gxlQBy5c8LBV2B.r6x70he0721wBnegmAdKwP9pdZLkcCe",
+    "created_at": null,
+    "updated_at": "2018-11-11 11:11:11",
+    "deleted_at": null
+}

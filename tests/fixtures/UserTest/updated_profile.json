@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "first_name": "Billy",
+    "last_name": "Coleman",
+    "email": "admin@example.com",
+    "date_of_birth": "1986-05-20",
+    "phone": "88888888888",
+    "position": "admin",
+    "starts_on": "2022-04-16 00:00:00",
+    "hr_id": null,
+    "manager_id": null,
+    "lead_id": null,
+    "role_id": 1,
+    "avatar_id": null,
+    "company_id": 1,
+    "created_at": null,
+    "updated_at": "2018-11-11T11:11:11.000000Z",
+    "deleted_at": null
+}

@@ -1,0 +1,13 @@
+{
+    "company": {
+        "name": "test company"
+    },
+    "user": {
+        "first_name": "test",
+        "last_name": "admin",
+        "email": "admin@test.com",
+        "date_of_birth": "2000-01-10",
+        "phone": "+79414033902",
+        "position": "admin of company"
+    }
+}

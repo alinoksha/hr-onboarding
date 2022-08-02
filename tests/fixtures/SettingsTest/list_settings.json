@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "company",
+        "created_at": null,
+        "updated_at": null,
+        "settings": [
+            {
+                "id": 1,
+                "name": "company logo",
+                "type": "photo",
+                "data": null,
+                "sorting_order": 1,
+                "company_id": 1,
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 2,
+                "name": "company name",
+                "type": "text",
+                "data": "RonasIT",
+                "sorting_order": 2,
+                "company_id": 1,
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 3,
+                "name": "welcome message",
+                "type": "textarea",
+                "data": "Welcome aboard! Can`t wait for you to start the process.",
+                "sorting_order": 3,
+                "company_id": 1,
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "chat bot",
+        "created_at": null,
+        "updated_at": null,
+        "settings": [
+            {
+                "id": 4,
+                "name": "bot profile image",
+                "type": "photo",
+                "data": null,
+                "sorting_order": 1,
+                "company_id": 1,
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 5,
+                "name": "bot name",
+                "type": "text",
+                "data": "Anna",
+                "sorting_order": 2,
+                "company_id": 1,
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    }
+]

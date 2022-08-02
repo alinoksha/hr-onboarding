@@ -1,0 +1,14 @@
+{
+    "first_name": "Ian",
+    "last_name": "Sherman",
+    "email": "ian-sh@exmple.com",
+    "date_of_birth": "1995-06-01",
+    "phone": "89256681520",
+    "position": "intern",
+    "starts_on": "2022-04-26",
+    "hr_id": 2,
+    "manager_id": 2,
+    "lead_id": 1,
+    "avatar_id": 2,
+    "company_id": 1
+}

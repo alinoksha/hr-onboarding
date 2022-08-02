@@ -1,0 +1,54 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id" : 1,
+            "script_id" : 1,
+            "title" : "title1",
+            "incomplete_cover_id" : 1,
+            "complete_cover_id" : 2,
+            "incomplete_message" : "msg",
+            "complete_message" : "msg",
+            "created_at" : null,
+            "updated_at" : null
+        },
+        {
+            "id" : 2,
+            "script_id" : 2,
+            "title" : "title2",
+            "incomplete_cover_id" : 1,
+            "complete_cover_id" : 1,
+            "incomplete_message" : "msg",
+            "complete_message" : "msg",
+            "created_at" : null,
+            "updated_at" : null
+        }
+    ],
+    "first_page_url": "http://localhost/api/achievements?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://localhost/api/achievements?page=1",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http://localhost/api/achievements?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http://localhost/api/achievements",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 2,
+    "total": 2
+}

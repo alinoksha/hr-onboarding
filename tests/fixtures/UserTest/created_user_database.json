@@ -1,0 +1,23 @@
+{
+    "id": 9,
+    "first_name": "Dana",
+    "last_name": "Scully",
+    "email": "dana.scully@fbi-test.com",
+    "date_of_birth": "1965-02-23",
+    "phone": "5195024052",
+    "position": "agent",
+    "starts_on": "2022-04-26 00:00:00",
+    "hr_id": 2,
+    "manager_id": 2,
+    "lead_id": 1,
+    "role_id": 3,
+    "avatar_id": 2,
+    "company_id": 1,
+    "created_at": "2018-11-11T11:11:11.000000Z",
+    "updated_at": "2018-11-11T11:11:11.000000Z",
+    "deleted_at": null,
+    "email_verified_at": null,
+    "remember_token": null,
+    "password": "password_hash"
+}
+

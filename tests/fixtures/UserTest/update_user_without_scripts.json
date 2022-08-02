@@ -1,0 +1,15 @@
+{
+    "first_name": "Dana",
+    "last_name": "Scully",
+    "email": "dana.scully@fbi-test.com",
+    "date_of_birth": "1965-02-23",
+    "phone": "5195024052",
+    "position": "agent",
+    "starts_on": "2022-04-26",
+    "hr_id": 2,
+    "manager_id": 2,
+    "lead_id": 1,
+    "role_id": 1,
+    "avatar_id": 2,
+    "scripts": []
+}

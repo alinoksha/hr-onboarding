@@ -1,0 +1,14 @@
+{
+    "first_name": "Mulder",
+    "last_name": "Fox",
+    "email": "mulder.fox@fbi-test.com",
+    "date_of_birth": "1961-10-13",
+    "phone": "5190021058",
+    "position": "agent",
+    "starts_on": "2022-05-01",
+    "hr_id": 2,
+    "manager_id": 2,
+    "lead_id": 1,
+    "role_id": 4,
+    "avatar_id": 2
+}

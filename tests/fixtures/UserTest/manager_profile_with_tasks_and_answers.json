@@ -1,0 +1,53 @@
+{
+    "id": 2,
+    "first_name": "Charlotte",
+    "last_name": "Lyons",
+    "email": "flavell@example.com",
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null,
+    "role_id": 2,
+    "date_of_birth": "1992-12-04",
+    "phone": "89255892221",
+    "position": "manager",
+    "starts_on": "2022-04-21 00:00:00",
+    "hr_id": 1,
+    "manager_id": 1,
+    "lead_id": 1,
+    "avatar_id": 1,
+    "company_id": 1,
+    "tasks": [
+        {
+            "id": 1,
+            "title": "title1",
+            "content": "content1",
+            "response_type": "radio",
+            "response_options": ["slack", "telegram", "whatsapp"],
+            "expected_response": ["telegram"],
+            "script_id": 3,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 2,
+            "title": "title2",
+            "content": "content2",
+            "response_type": "text",
+            "response_options": null,
+            "expected_response": "correct answer",
+            "script_id": 3,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "answers": [
+        {
+            "id": 1,
+            "answer": [
+                "telegram"
+            ],
+            "task_id": 1,
+            "user_id": 2
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "current_page": 2,
+    "data": [
+        {
+            "id": 2,
+            "title": "title2",
+            "content": "content2",
+            "response_type": "text",
+            "response_options": null,
+            "expected_response": "correct answer",
+            "script_id": 1,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "first_page_url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=1",
+    "from": 2,
+    "last_page": 2,
+    "last_page_url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=2",
+    "links": [
+        {
+            "url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=1",
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=1",
+            "label": "1",
+            "active": false
+        },
+        {
+            "url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=2",
+            "label": "2",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/localhost\/api\/scripts\/1\/tasks",
+    "per_page": 1,
+    "prev_page_url": "http:\/\/localhost\/api\/scripts\/1\/tasks?page=1",
+    "to": 2,
+    "total": 2
+}

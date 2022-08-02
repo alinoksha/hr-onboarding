@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "title": "new title",
+    "content": "content1",
+    "response_type": "radio",
+    "response_options": ["slack", "telegram", "whatsapp"],
+    "expected_response": ["telegram"],
+    "script_id": 2,
+    "created_at": null,
+    "updated_at": "2018-11-11T11:11:11.000000Z"
+}
